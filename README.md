@@ -54,4 +54,5 @@ This limitation is:
 -Logged transparently in the terminal
 -Documented to reflect real-world constraints
 
+
 To demonstrate end-to-end functionality, Trustpilot was integrated as an additional SaaS review source where reviews are accessible via static HTML.
